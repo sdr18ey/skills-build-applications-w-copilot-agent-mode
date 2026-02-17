@@ -1,0 +1,49 @@
+/* App.css - Bootstrap-based styling for Octofit Tracker */
+body {
+  background-color: #f8f9fa;
+}
+
+.app-container {
+  margin: 2rem auto;
+  max-width: 900px;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.card {
+  margin-bottom: 1.5rem;
+}
+
+.btn-primary {
+  margin: 0.25rem;
+}
+
+.heading {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  color: #343a40;
+  margin-bottom: 1rem;
+}
+
+.link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.modal-content {
+  border-radius: 8px;
+}
